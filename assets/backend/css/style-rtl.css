@@ -1,0 +1,8 @@
+.dropdown-toggle::after {
+    left: 0px;
+    right: auto;
+}
+
+.add-btn {
+    float: left !important;
+}
